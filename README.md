@@ -5,7 +5,7 @@ Software Engineering Student & Frontend Developer
 ## About Me
 - Building web applications using HTML, CSS, JavaScript
 - Passionate about creating useful tools
-- Currently looking for internship opportunities
+- "Software Engineering Intern @ ALIA ICT"
 
 ## Projects
 - Password Generator  
